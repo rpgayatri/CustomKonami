@@ -1,0 +1,33 @@
+body {
+  font-family: "Shadows Into Light", cursive;
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  font-size: 50px;
+}
+
+.m {
+  color: darkviolet;
+}
+
+.a {
+  color: indigo;
+}
+
+.g {
+  color: blue;
+}
+
+.i {
+  color: darkgreen;
+}
+
+.c {
+  color: orange;
+}
+
+.magic {
+  color: red;
+}
